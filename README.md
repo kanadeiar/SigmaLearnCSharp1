@@ -1,10 +1,12 @@
+[![.NET 9 Test](https://github.com/kanadeiar/SigmaLearnCSharp1/actions/workflows/dotnet-9-test.yml/badge.svg)](https://github.com/kanadeiar/SigmaLearnCSharp1/actions/workflows/dotnet-9-test.yml)
+
 # SigmaLearnCSharp1
 
 Учебный репозиторий комплексного практического обучения новой методике программирования на основе курса GeekBrains "C# Уровень 1".
 
 Практическое обучение современным знаниям и инструментам разработки программного обеспечения.
 
-## Предметы:
+## Предметы изучения:
 
 1) Язык программирования C# 13;
 2) Экстремальное программирование (XP);
